@@ -1,0 +1,2 @@
+-- SQLite
+CREATE DATABASE test
