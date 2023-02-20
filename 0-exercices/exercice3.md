@@ -48,6 +48,6 @@ Pour chaque demande, vous devez rédiger et stocker la requête SQL et prendre u
 
 2. Toutes les villes différentes de Paris.
 
-3. Les stations qui ont une fréquentation entre 5 000 000 et 10 000.
+3. Les stations qui ont une fréquentation entre 5 000 000 et 10 000 000.
 
 4. Les stations qui ont le mot "marie" ou "ville" dans leur nom.
