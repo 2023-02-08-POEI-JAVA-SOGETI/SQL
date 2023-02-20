@@ -14,7 +14,6 @@
 - [Documentation W3SCHOOLS SELECT](https://www.w3schools.com/sql/sql_select.asp)
 - [Documentation spécifique à SQLite SELECT](https://www.sqlite.org/lang_select.html)
 
-
 ---
 
 ## Énoncé
@@ -50,4 +49,6 @@ Pour chaque demande, vous devez rédiger et stocker la requête SQL et prendre u
 
 3. Les stations qui ont une fréquentation entre 5 000 000 et 10 000 000.
 
-4. Les stations qui ont le mot "marie" ou "ville" dans leur nom.
+4. Les stations qui ont le mot "mairie" ou "ville" dans leur nom.
+
+5. Toutes les stations qui ont un id qui est paire.
