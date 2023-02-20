@@ -1,4 +1,4 @@
-# Exercice 2
+# Exercice 2 : transformation diagramme de classes UML en modèle relationnel
 
 ---
 

@@ -1,4 +1,4 @@
-# Exercice 1
+# Exercice 1 : dictionnaire des données
 
 ---
 
