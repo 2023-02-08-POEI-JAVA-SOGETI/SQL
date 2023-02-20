@@ -19,7 +19,7 @@
 
 ## Énoncé
 
-1. Récupérez la base donnée [trafic annuel entrant par station du réseau ferré RATP de 2013 à 2021](./databases/ratp/ratp.sqlite).
+1. Récupérez la base donnée [trafic annuel entrant par station du réseau ferré RATP de 2013 à 2021](../databases/ratp/ratp.sqlite).
 2. Agence de location GTM Drive Rental située à Paris souhaite connaître les informations suivantes en s'appuyant sur votre expertise dans les bases de données pour sa filiale d'auto-partage GTM Share  qui souhaite mettre à disposition des véhicules pour le covoiturage à proximité des gares de la région parisienne.
 Pour chaque demande, vous devez rédiger et stocker la requête SQL et prendre une capture d'écran du résultat retourné par votre base de données.
 
