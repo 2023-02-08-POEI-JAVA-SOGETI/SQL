@@ -4,18 +4,10 @@
 
 ## Modalités
 
-- Versionnez le TP avec Git et GitHub
+- Pas besoin de versionner avec GIT vous pouvez créer des fichiers sur TEAMS et être à plusieurs dessus + le partage d'écran.
+- Utilisez le SGBDR MySQL
 
 ---
-
-## Énoncé
-
-1. Modélisez avec UML les besoins suivants à l'aide d'un diagramme de classes.
-2. Créez le dictionnaire de données
-3. Transformez votre diagramme de classes en modèle relationnel en appliquant les règles de transformations.
-Chaque requête de création de table doit être stockée dans un fichier .sql
-4. Créez des requêtes SQL pour insérer les données dans vos tables.
-5. Exécutez toutes les requêtes pour créer et alimenter votre base de données.
 
 ### Expression des besoins
 
@@ -25,3 +17,11 @@ Chaque requête de création de table doit être stockée dans un fichier .sql
 - Une expérience professionnelle est constituée des informations suivantes : nom du poste occupé, entreprise, date d'entrée, date de sortie, description du poste.
 - Lorsqu'une personne en reconversion professionnelle est recrutée, elle intègre une formation qui a une date de début et une date de fin.
 - Une formation est constituée de plusieurs Cours.
+
+---
+
+## Énoncé
+
+1. Modélisez avec UML les besoins ci-dessus à l'aide d'un diagramme de classes.
+2. Transformez votre diagramme de classes en modèle relationnel en appliquant les règles de transformations.
+3. Insérez les données (fictives pas les vrais pour respecter la vie privée de chacun) dans vos tables.
